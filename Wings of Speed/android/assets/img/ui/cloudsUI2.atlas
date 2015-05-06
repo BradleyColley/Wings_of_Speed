@@ -1,0 +1,39 @@
+cloudsUI.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud_large
+  rotate: false
+  xy: 2, 2
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+cloud_medium
+  rotate: false
+  xy: 186, 2
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+cloud_medium02
+  rotate: false
+  xy: 370, 2
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+cloud_medium03
+  rotate: false
+  xy: 554, 2
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+cloud_small
+  rotate: false
+  xy: 738, 2
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1

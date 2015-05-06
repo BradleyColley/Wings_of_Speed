@@ -1,0 +1,137 @@
+birdsUI_2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bBird1
+  rotate: false
+  xy: 738, 2
+  size: 182, 166
+  orig: 182, 166
+  offset: 0, 0
+  index: -1
+bBird2
+  rotate: false
+  xy: 1106, 2
+  size: 182, 166
+  orig: 182, 166
+  offset: 0, 0
+  index: -1
+bBird3
+  rotate: false
+  xy: 922, 2
+  size: 182, 166
+  orig: 182, 166
+  offset: 0, 0
+  index: -1
+bBird4
+  rotate: false
+  xy: 1290, 2
+  size: 182, 166
+  orig: 182, 166
+  offset: 0, 0
+  index: -1
+gBird1
+  rotate: false
+  xy: 2, 2
+  size: 182, 124
+  orig: 182, 124
+  offset: 0, 0
+  index: -1
+gBird2
+  rotate: false
+  xy: 370, 2
+  size: 182, 124
+  orig: 182, 124
+  offset: 0, 0
+  index: -1
+gBird3
+  rotate: false
+  xy: 186, 2
+  size: 182, 124
+  orig: 182, 124
+  offset: 0, 0
+  index: -1
+gBird4
+  rotate: false
+  xy: 554, 2
+  size: 182, 124
+  orig: 182, 124
+  offset: 0, 0
+  index: -1
+oBird1
+  rotate: false
+  xy: 370, 173
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+oBird2
+  rotate: false
+  xy: 554, 173
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+oBird3
+  rotate: false
+  xy: 922, 173
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+oBird4
+  rotate: false
+  xy: 738, 173
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+oBird5
+  rotate: false
+  xy: 1290, 173
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+oBird6
+  rotate: false
+  xy: 1106, 173
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+oBird7
+  rotate: false
+  xy: 1474, 173
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+yBird1
+  rotate: false
+  xy: 2, 173
+  size: 182, 169
+  orig: 182, 169
+  offset: 0, 0
+  index: -1
+yBird2
+  rotate: false
+  xy: 1474, 2
+  size: 182, 169
+  orig: 182, 169
+  offset: 0, 0
+  index: -1
+yBird3
+  rotate: false
+  xy: 1658, 2
+  size: 182, 169
+  orig: 182, 169
+  offset: 0, 0
+  index: -1
+yBird4
+  rotate: false
+  xy: 186, 173
+  size: 182, 169
+  orig: 182, 169
+  offset: 0, 0
+  index: -1

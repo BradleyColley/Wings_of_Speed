@@ -1,0 +1,38 @@
+{
+	"com.badlogic.gdx.graphics.Color": {
+		"white":	{ "r": 1, "g": 1, "b": 1, "a": 1 },
+		"black":	{ "r": 0, "g": 0, "b": 0, "a": 1 },
+		“blue”:	{ "r": 0, "g": 0, "b": 0, "a": 1 },
+	},
+	"com.badlogic.gdx.graphics.g2d.BitmapFont": {
+		 ravie_blackF: { "file": "fonts/ravie_black.fnt" },
+		 ravie_blackF2: { "file": "fonts/ravie_black.fnt" },
+		 medium: 	{ "file": "fonts/ravie_black1.fnt" },
+ 		 small:	 	{ "file": "fonts/ravie_black1.fnt" },
+		 extra-small: 	{ "file": "fonts/small.fnt" }, 
+	},
+	"com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+		"default": { "font": ravie_blackF2, "fontColor": black },
+		default-small: { "font": extra-small, "fontColor": black },
+	},
+
+	com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {
+	default: { vScroll: defaultScrollBG, background: defaultBG,
+			vScrollKnob: defaultScroll}
+	},
+
+	com.badlogic.gdx.scenes.scene2d.ui.SelectBox$SelectBoxStyle: {
+	default: {
+		font: medium, background: btnCustom,
+		scrollStyle: default,
+		listStyle: { font: small, selection: defaultSelection }
+	},
+
+	default-small: {
+		font: ravie_blackF, background: btnCustom,
+		scrollStyle: default,
+		listStyle: { font: small, selection: defaultSelection }
+	},
+},
+
+}

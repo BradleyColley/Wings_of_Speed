@@ -1,0 +1,109 @@
+cloudsUI.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloudsLarge_black
+  rotate: false
+  xy: 2, 2
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+cloudsLarge_grey
+  rotate: false
+  xy: 186, 2
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+cloudsLarge_white
+  rotate: false
+  xy: 370, 2
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+cloudsMedium02_black
+  rotate: false
+  xy: 554, 2
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+cloudsMedium02_grey
+  rotate: false
+  xy: 738, 2
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+cloudsMedium02_white
+  rotate: false
+  xy: 2, 142
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+cloudsMedium03_black
+  rotate: false
+  xy: 186, 142
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+cloudsMedium03_grey
+  rotate: false
+  xy: 370, 142
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+cloudsMedium03_white
+  rotate: false
+  xy: 554, 142
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+cloudsMedium_black
+  rotate: false
+  xy: 738, 142
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+cloudsMedium_grey
+  rotate: false
+  xy: 2, 282
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+cloudsMedium_white
+  rotate: false
+  xy: 186, 282
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+cloudsSmall_black
+  rotate: false
+  xy: 370, 282
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+cloudsSmall_grey
+  rotate: false
+  xy: 554, 282
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+cloudsSmall_white
+  rotate: false
+  xy: 738, 282
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1

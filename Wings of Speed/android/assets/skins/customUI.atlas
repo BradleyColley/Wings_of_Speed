@@ -1,0 +1,53 @@
+customUI.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btnCustom
+  rotate: false
+  xy: 2, 2
+  size: 382, 68
+  orig: 382, 68
+  offset: 0, 0
+  index: -1
+btnLoad
+  rotate: false
+  xy: 2, 72
+  size: 282, 81
+  orig: 282, 81
+  offset: 0, 0
+  index: -1
+defaultBG
+  rotate: false
+  xy: 286, 72
+  size: 80, 69
+  orig: 80, 69
+  offset: 0, 0
+  index: -1
+defaultScroll
+  rotate: false
+  xy: 368, 72
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+defaultScrollBG
+  rotate: false
+  xy: 2, 155
+  size: 12, 32
+  orig: 12, 32
+  offset: 0, 0
+  index: -1
+defaultSelection
+  rotate: false
+  xy: 16, 155
+  size: 80, 69
+  orig: 80, 69
+  offset: 0, 0
+  index: -1
+preview
+  rotate: false
+  xy: 98, 155
+  size: 282, 189
+  orig: 282, 189
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,88 @@
+pUps_UI.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pUp_1a
+  rotate: false
+  xy: 2, 2
+  size: 102, 18
+  orig: 102, 18
+  offset: 0, 0
+  index: -1
+pUp_1b
+  rotate: false
+  xy: 106, 2
+  size: 102, 15
+  orig: 102, 15
+  offset: 0, 0
+  index: -1
+pUp_1c
+  rotate: false
+  xy: 210, 2
+  size: 102, 12
+  orig: 102, 12
+  offset: 0, 0
+  index: -1
+pUp_2a
+  rotate: false
+  xy: 314, 2
+  size: 102, 18
+  orig: 102, 18
+  offset: 0, 0
+  index: -1
+pUp_2b
+  rotate: false
+  xy: 2, 22
+  size: 102, 15
+  orig: 102, 15
+  offset: 0, 0
+  index: -1
+pUp_2c
+  rotate: false
+  xy: 106, 22
+  size: 102, 12
+  orig: 102, 12
+  offset: 0, 0
+  index: -1
+pUp_3a
+  rotate: false
+  xy: 210, 22
+  size: 102, 18
+  orig: 102, 18
+  offset: 0, 0
+  index: -1
+pUp_3b
+  rotate: false
+  xy: 314, 22
+  size: 102, 15
+  orig: 102, 15
+  offset: 0, 0
+  index: -1
+pUp_3c
+  rotate: false
+  xy: 2, 42
+  size: 102, 12
+  orig: 102, 12
+  offset: 0, 0
+  index: -1
+pUp_4a
+  rotate: false
+  xy: 106, 42
+  size: 102, 18
+  orig: 102, 18
+  offset: 0, 0
+  index: -1
+pUp_4b
+  rotate: false
+  xy: 210, 42
+  size: 102, 15
+  orig: 102, 15
+  offset: 0, 0
+  index: -1
+pUp_4c
+  rotate: false
+  xy: 314, 42
+  size: 102, 12
+  orig: 102, 12
+  offset: 0, 0
+  index: -1

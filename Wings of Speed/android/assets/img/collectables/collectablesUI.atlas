@@ -1,0 +1,25 @@
+collectablesUI.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1
+feather
+  rotate: false
+  xy: 2, 256
+  size: 252, 239
+  orig: 252, 239
+  offset: 0, 0
+  index: -1
+twig
+  rotate: false
+  xy: 2, 497
+  size: 152, 288
+  orig: 152, 288
+  offset: 0, 0
+  index: -1

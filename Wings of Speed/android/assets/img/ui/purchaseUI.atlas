@@ -1,0 +1,25 @@
+purchaseUI.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btnPurchased1
+  rotate: false
+  xy: 2, 2
+  size: 182, 147
+  orig: 182, 147
+  offset: 0, 0
+  index: -1
+btnPurchased2
+  rotate: false
+  xy: 2, 151
+  size: 182, 147
+  orig: 182, 147
+  offset: 0, 0
+  index: -1
+btnPurchased3
+  rotate: false
+  xy: 2, 300
+  size: 182, 147
+  orig: 182, 147
+  offset: 0, 0
+  index: -1

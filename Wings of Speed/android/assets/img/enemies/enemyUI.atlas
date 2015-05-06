@@ -1,0 +1,179 @@
+enemyUI.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bat1
+  rotate: false
+  xy: 2, 2
+  size: 252, 327
+  orig: 252, 327
+  offset: 0, 0
+  index: -1
+bat2
+  rotate: false
+  xy: 256, 2
+  size: 252, 327
+  orig: 252, 327
+  offset: 0, 0
+  index: -1
+bat3
+  rotate: false
+  xy: 510, 2
+  size: 252, 327
+  orig: 252, 327
+  offset: 0, 0
+  index: -1
+bird_beige1
+  rotate: false
+  xy: 764, 2
+  size: 252, 183
+  orig: 252, 183
+  offset: 0, 0
+  index: -1
+bird_beige2
+  rotate: false
+  xy: 1018, 2
+  size: 252, 183
+  orig: 252, 183
+  offset: 0, 0
+  index: -1
+bird_beige3
+  rotate: false
+  xy: 1272, 2
+  size: 252, 183
+  orig: 252, 183
+  offset: 0, 0
+  index: -1
+bird_beige4
+  rotate: false
+  xy: 1526, 2
+  size: 252, 183
+  orig: 252, 183
+  offset: 0, 0
+  index: -1
+bird_black1
+  rotate: false
+  xy: 2, 331
+  size: 252, 183
+  orig: 252, 183
+  offset: 0, 0
+  index: -1
+bird_black2
+  rotate: false
+  xy: 256, 331
+  size: 252, 183
+  orig: 252, 183
+  offset: 0, 0
+  index: -1
+bird_black3
+  rotate: false
+  xy: 510, 331
+  size: 252, 183
+  orig: 252, 183
+  offset: 0, 0
+  index: -1
+bird_black4
+  rotate: false
+  xy: 764, 331
+  size: 252, 183
+  orig: 252, 183
+  offset: 0, 0
+  index: -1
+bird_brown1
+  rotate: false
+  xy: 1018, 331
+  size: 252, 183
+  orig: 252, 183
+  offset: 0, 0
+  index: -1
+bird_brown2
+  rotate: false
+  xy: 1272, 331
+  size: 252, 183
+  orig: 252, 183
+  offset: 0, 0
+  index: -1
+bird_brown3
+  rotate: false
+  xy: 1526, 331
+  size: 252, 183
+  orig: 252, 183
+  offset: 0, 0
+  index: -1
+bird_brown4
+  rotate: false
+  xy: 2, 516
+  size: 252, 183
+  orig: 252, 183
+  offset: 0, 0
+  index: -1
+bird_white1
+  rotate: false
+  xy: 256, 516
+  size: 252, 183
+  orig: 252, 183
+  offset: 0, 0
+  index: -1
+bird_white2
+  rotate: false
+  xy: 510, 516
+  size: 252, 183
+  orig: 252, 183
+  offset: 0, 0
+  index: -1
+bird_white3
+  rotate: false
+  xy: 764, 516
+  size: 252, 183
+  orig: 252, 183
+  offset: 0, 0
+  index: -1
+bird_white4
+  rotate: false
+  xy: 1018, 516
+  size: 252, 183
+  orig: 252, 183
+  offset: 0, 0
+  index: -1
+wasp_orange1
+  rotate: false
+  xy: 1272, 516
+  size: 252, 173
+  orig: 252, 173
+  offset: 0, 0
+  index: -1
+wasp_orange2
+  rotate: false
+  xy: 1526, 516
+  size: 252, 173
+  orig: 252, 173
+  offset: 0, 0
+  index: -1
+wasp_orange3
+  rotate: false
+  xy: 2, 701
+  size: 252, 173
+  orig: 252, 173
+  offset: 0, 0
+  index: -1
+wasp_yellow1
+  rotate: false
+  xy: 256, 701
+  size: 252, 173
+  orig: 252, 173
+  offset: 0, 0
+  index: -1
+wasp_yellow2
+  rotate: false
+  xy: 510, 701
+  size: 252, 173
+  orig: 252, 173
+  offset: 0, 0
+  index: -1
+wasp_yellow3
+  rotate: false
+  xy: 764, 701
+  size: 252, 173
+  orig: 252, 173
+  offset: 0, 0
+  index: -1

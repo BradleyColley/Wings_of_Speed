@@ -1,0 +1,18 @@
+previewUI.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blueSky_BG
+  rotate: false
+  xy: 2, 2
+  size: 252, 198
+  orig: 252, 198
+  offset: 0, 0
+  index: -1
+stars_BG
+  rotate: false
+  xy: 256, 2
+  size: 252, 198
+  orig: 252, 198
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,46 @@
+charUI.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+activeBtn
+  rotate: false
+  xy: 2, 2
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+leftArrow
+  rotate: false
+  xy: 186, 2
+  size: 182, 262
+  orig: 182, 262
+  offset: 0, 0
+  index: -1
+non-activeBtn
+  rotate: false
+  xy: 370, 2
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+rightArrow
+  rotate: false
+  xy: 554, 2
+  size: 182, 262
+  orig: 182, 262
+  offset: 0, 0
+  index: -1
+selectChar_logo
+  rotate: false
+  xy: 738, 2
+  size: 182, 152
+  orig: 182, 152
+  offset: 0, 0
+  index: -1
+treeBG
+  rotate: false
+  xy: 2, 266
+  size: 942, 728
+  orig: 942, 728
+  offset: 0, 0
+  index: -1

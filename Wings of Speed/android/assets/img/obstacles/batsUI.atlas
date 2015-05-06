@@ -1,0 +1,46 @@
+batsUI.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bat_black1
+  rotate: false
+  xy: 2, 2
+  size: 252, 327
+  orig: 252, 327
+  offset: 0, 0
+  index: -1
+bat_black2
+  rotate: false
+  xy: 2, 331
+  size: 252, 327
+  orig: 252, 327
+  offset: 0, 0
+  index: -1
+bat_black3
+  rotate: false
+  xy: 2, 660
+  size: 252, 327
+  orig: 252, 327
+  offset: 0, 0
+  index: -1
+bat_red1
+  rotate: false
+  xy: 2, 989
+  size: 252, 327
+  orig: 252, 327
+  offset: 0, 0
+  index: -1
+bat_red2
+  rotate: false
+  xy: 2, 1318
+  size: 252, 327
+  orig: 252, 327
+  offset: 0, 0
+  index: -1
+bat_red3
+  rotate: false
+  xy: 2, 1647
+  size: 252, 327
+  orig: 252, 327
+  offset: 0, 0
+  index: -1

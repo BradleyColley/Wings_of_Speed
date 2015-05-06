@@ -1,0 +1,32 @@
+retryUI.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+homeBtn
+  rotate: false
+  xy: 2, 291
+  size: 552, 287
+  orig: 552, 287
+  offset: 0, 0
+  index: -1
+retryBtn
+  rotate: false
+  xy: 556, 291
+  size: 552, 287
+  orig: 552, 287
+  offset: 0, 0
+  index: -1
+scoreBG
+  rotate: false
+  xy: 556, 2
+  size: 552, 252
+  orig: 552, 252
+  offset: 0, 0
+  index: -1
+shopBtn
+  rotate: false
+  xy: 2, 2
+  size: 552, 287
+  orig: 552, 287
+  offset: 0, 0
+  index: -1

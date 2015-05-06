@@ -1,0 +1,32 @@
+deathUI.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bBird
+  rotate: false
+  xy: 2, 2
+  size: 252, 225
+  orig: 252, 225
+  offset: 0, 0
+  index: -1
+gBird
+  rotate: false
+  xy: 256, 2
+  size: 252, 225
+  orig: 252, 225
+  offset: 0, 0
+  index: -1
+oBird
+  rotate: false
+  xy: 510, 2
+  size: 252, 225
+  orig: 252, 225
+  offset: 0, 0
+  index: -1
+yBird
+  rotate: false
+  xy: 764, 2
+  size: 252, 225
+  orig: 252, 225
+  offset: 0, 0
+  index: -1

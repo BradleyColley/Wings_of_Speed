@@ -1,0 +1,16 @@
+{
+	"com.badlogic.gdx.graphics.Color": {
+		"white":	{ "r": 1, "g": 1, "b": 1, "a": 1 },
+		"black":	{ "r": 0, "g": 0, "b": 0, "a": 1 },
+	},
+	"com.badlogic.gdx.graphics.g2d.BitmapFont": {
+		"ravie_blackF": { "file": "fonts/ravie_black.fnt" },
+		"ravie_whiteF": { "file": "fonts/ravie_white.fnt" },
+		 “titleblack":	  { "file": "fonts/ravie_white.fnt" },
+	},
+	"com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+		"titleblack": { "font": ravie_whiteF, "fontColor": white },
+		"default": { "font": ravie_blackF, "fontColor": black },
+	},
+	
+}
